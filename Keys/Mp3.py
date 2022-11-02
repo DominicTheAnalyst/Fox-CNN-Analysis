@@ -1,0 +1,2 @@
+fox_mp3 = "https://github.com/thu-vu92/audio_analyzer_assemblyai/blob/main/How_I_Would_Learn_to_Code.mp3?raw=true"
+cnn_mp3 = "https://github.com/DominicTheAnalyst/Fox-CNN-Analysis/blob/main/CNN_Analysis_FBI_Raid.mp3?raw=true"
